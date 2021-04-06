@@ -1,0 +1,23 @@
+_repo: The-Story-of-Alexander_64991
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Steele, Robert
+    birthdate: 1860
+    deathdate: 1944
+    gutenberg_agent_id: '2068'
+    url: http://www.gutenberg.org/2009/agents/2068
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Steele_(medievalist)
+description: ''
+gutenberg_issued: '2021-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64991'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Story of Alexander
+url: http://www.gutenberg.org/ebooks/64991
